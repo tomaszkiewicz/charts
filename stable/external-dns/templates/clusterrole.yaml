@@ -8,6 +8,7 @@ rules:
 - apiGroups:
   - ""
   resources:
+  - endpoints
   - services
   - pods
   - nodes
